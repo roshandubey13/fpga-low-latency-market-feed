@@ -35,4 +35,4 @@ These modules form the low‑latency ingress path for market data.
 ## Usage Notes  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your‑username>/fpga‑low‑latency‑market‑feed.git
+   git clone https://github.com/roshandubey13/fpga‑low‑latency‑market‑feed.git
